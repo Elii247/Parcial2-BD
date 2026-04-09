@@ -1,7 +1,3 @@
--- ============================================================
--- DELGADO & DELGADO - VISTAS SQL
--- 5 vistas implementadas para el sistema
--- ============================================================
 
 USE delgado_abogados;
 
